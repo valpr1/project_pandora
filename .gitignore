@@ -1,0 +1,16 @@
+# Maven build
+target/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.settings/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JaCoCo
+jacoco.exec

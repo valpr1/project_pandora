@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "feature": "version",
+    "milestone": 1,
+    "mode": "feature",
+    "file": "",
+    "result": "pandora@2.0.0"
+  },
+  {
+    "id": 2,
+    "feature": "filenames",
+    "milestone": 1,
+    "mode": "feature",
+    "file": "test/resources/simple_test.frd",
+    "result": "simple_test.frd"
+  }
+]
